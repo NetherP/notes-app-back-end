@@ -1,0 +1,3 @@
+hapus cors permission di browser sesudah selesai belajar di:
+edge://flags/#unsafely-treat-insecure-origin-as-secure
+ - insecure origins treated as secure: hapus semua, buat disabled
